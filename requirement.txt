@@ -1,0 +1,11 @@
+torch==2.5.1
+torchinfo==1.8.0
+torchvision==0.20.1
+transformers==4.47.1
+tqdm==4.67.1
+numpy==2.2.1
+pandas==2.2.3
+opencv-python-headless==4.10.0.84
+pillow==11.0.0
+matplotlib==3.10.0
+streamlit==1.41.1
