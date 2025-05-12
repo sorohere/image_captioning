@@ -1,0 +1,15 @@
+{
+    "FEATURES_DIMS": 2048,
+    "HIDDEN_STATE_DIMS": 512,
+    "ATTENTION_DIMS": 512,
+    "WORD_EMB_DIMS": 512,
+    "VOCAB_FREQ_THRESHOLD": 5,
+    "DROP_PROB": 0.5,
+    "BATCH_SIZE": 32,
+    "LEARNING_RATE": 3e-4,
+    "NUM_EPOCHS": 10,
+    "IMAGE_DIR": "dataset/flickr30k-dataset/Images",
+    "CAPTIONS_FILE": "dataset/flickr30k-dataset/captions.txt",
+    "VOCAB_SAVE_PATH": "scripts/checkpoints/vocab.pth",
+    "MODEL_SAVE_PATH": "scripts/checkpoints/model.pth"
+}
