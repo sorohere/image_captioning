@@ -1,6 +1,6 @@
 # capage
 
-A CNN-LSTM based image captioning model trained on the flickr30k dataset.
+A CNN-LSTM-based image captioning model trained on the Flickr30k dataset. To learn more about how this project works, check out the [documentation](https://drive.google.com/file/d/1H-p_hxG4sENpcs0h-nOQMAWnKsHj9D2s/view?usp=sharing).
 
 
 ### Installation
